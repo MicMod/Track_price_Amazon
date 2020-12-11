@@ -1,2 +1,2 @@
-#Script to track Amazon prices 
+# Script to track Amazon prices 
 ## How to use?
