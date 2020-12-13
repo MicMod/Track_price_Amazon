@@ -1,6 +1,6 @@
 # Script to track Amazon prices 
 The script tracks the price of an item on Amazon site. If the price is lower than defined as an argument, you will receive a mail. 
-## What to do before run the script?
+## What you need to do before run the script?
 
 To send an email alert you need to do the 2-step verification of your Google acconut: <br />
 1. Go to: https://www.google.com/landing/2step/
@@ -13,7 +13,7 @@ To send an email alert you need to do the 2-step verification of your Google acc
 ## How to use?
 To run the script you need to typ in console:
 ```bash
-python Track_price_Amazon.py --url "URL of Amazon product" --sender "sender's gmail addres" --password "sender's password" --reciver "reciver's email" --userAgent "your user agent" --price 9999
+python Track_price_Amazon.py --url "URL of Amazon product" --sender "sender's gmail addres" --password "sender's password" --receiver "receiver's email" --userAgent "your user agent" --price 9999
 ```
 ### What means arguments?
 - **--url** - addres URL of Amazon product <br />
@@ -24,4 +24,8 @@ Exmaple: <br />
 Example: <br />
 -- sender "sender_mail@gmail.com"
 
-- **--passowrd
+- **--passowrd** sender's password for the application. Look at points 3-5 *What you need to do before run the script?* <br />
+Example: <br />
+-- sender "passworddddddddd" <br />
+
+- **receiver**  
