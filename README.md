@@ -8,4 +8,10 @@ python Track_price_Amazon.py --url "URL of Amazon product" --sender "sender's gm
 ### What means arguments?
 - **--url** - addres URL of Amazon product <br />
 *Exmaple: <br />
---ulr "https://www.amazon.de/-/pl/dp/B07XRR92LP/ref=zg_bs_3468301_23?_encoding=UTF8&psc=1&refRID=MBW4BYQD03MMZXZA2WD4"* 
+--ulr "https://www.amazon.de/-/pl/dp/B07XRR92LP/ref=zg_bs_3468301_23?_encoding=UTF8&psc=1&refRID=MBW4BYQD03MMZXZA2WD4"* <br />
+
+- **--sender** - sender's gmail addres <br />
+To send an email alert you need to do the 2-step verification of a Google acconut: <br />
+1. Go to: https://www.google.com/landing/2step/
+2. Enable the 2-step verification
+3. Now you can set a password for the app. Go to Google Account and search "google app password" 
