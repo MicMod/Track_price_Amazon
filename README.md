@@ -8,4 +8,4 @@ python Track_price_Amazon.py --url "URL of Amazon product" --sender "sender's gm
 ### What means arguments?
 - **--url** - addres URL of Amazon product <br />
 *Exmaple: <br />
---ulr "https://www.amazon.de/-/pl/dp/B07XRR92LP/ref=zg_bs_3468301_23?_encoding=UTF8&psc=1&refRID=MBW4BYQD03MMZXZA2WD4"* <br />
+--ulr "https://www.amazon.de/-/pl/dp/B07XRR92LP/ref=zg_bs_3468301_23?_encoding=UTF8&psc=1&refRID=MBW4BYQD03MMZXZA2WD4"* 
