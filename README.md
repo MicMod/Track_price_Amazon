@@ -15,3 +15,4 @@ To send an email alert you need to do the 2-step verification of a Google acconu
 1. Go to: https://www.google.com/landing/2step/
 2. Enable the 2-step verification
 3. Now you can set a password for the app. Go to Google Account and search "google app password" 
+![Screenshot](app_password.png)
