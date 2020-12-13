@@ -9,7 +9,7 @@ parser = argparse.ArgumentParser()
 parser.add_argument("-u", "--url", help="URL of Amazon product", type=str)
 parser.add_argument("-s", "--sender", help="Sender email addres (Gmail)", type=str)
 parser.add_argument("-ps", "--password", help="Password of sender", type=str)
-parser.add_argument("-r", "--reciver", help="Reciver email addres", type=str)
+parser.add_argument("-r", "--receiver", help="Reciver email addres", type=str)
 parser.add_argument("-ua", "--userAgent", help="Your user agent", type=str)
 parser.add_argument("-pr", "--price", help="Price of the item, which is affordable for you", type=float)
 
@@ -59,7 +59,7 @@ def send_mail():
     
     server.sendmail(
         args.sender,
-        args.reciver,
+        args.receiver,
         msg=msg
     )
     print('Email has been send')
