@@ -6,4 +6,4 @@ To run the script you need to typ in console:
 python Track_price_Amazon.py --url "URL of Amazon product" --sender "sender's gmail addres" --password "sender's password" --reciver "reciver's email" --userAgent "your user agent" --price 9999
 ```
 ### What means arguments?
-- --url - 
+- **--url** - 
