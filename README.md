@@ -32,7 +32,7 @@ Example: <br />
 Example: <br />
 -- receiver "receiver___mail@wp.pl <br />
 
-- **--userAgent** - your user agent - to  get this type in Google browser "my user agent"
+- **--userAgent** - your user agent - to  get this type in Google browser "my user agent"<br />
 Example: <br />
 -- userAgent "Mozilla/x.x (X11; Linux x86_xx) AppleWebKit/xxx.xx (KHTML, like Gecko) Chrome/xx.x.xxxx.xx Safari/xxx.xx" <br />
 
